@@ -1,0 +1,11 @@
+CREATE TABLE userdate(
+id SERIAL AUTO_INCREMENT UNIQUE NOT NULL,
+login_id varchar(255) UNIQUE NOT NULL,
+name varchar(255) NOT NULL,
+birth_date DATE NOT NULL,
+password varchar(255) NOT NULL,
+create_date DATETIME NOT NULL,
+update_date DATETIME NOT NULL,
+primary key(id));
+
+INSERT INTO userdate VALUES (1,'admin','ä«óùé“',19960728,'rezodb359',20180827,20180827);

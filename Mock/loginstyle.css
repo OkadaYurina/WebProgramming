@@ -1,0 +1,11 @@
+body{
+	width:30%;
+    margin: auto;
+	border: solid 3px #000000;
+}
+h1{
+	text-align: center;
+}
+form{
+	text-align: center;
+}
