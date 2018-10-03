@@ -1,0 +1,31 @@
+body{
+	width:30%;
+    margin: auto;
+	border: solid 3px #000000;
+}
+header{
+	background-color:#696969;
+	text-align: right;
+	color:#ffffff;
+}
+h1{
+	text-align: center;
+}
+
+ul li {
+    list-style: none;
+}
+
+label {
+    margin-right: 10px;
+    width:200px;
+    float: left;
+}
+
+ul {
+    width: 500px;
+    margin: 0 auto;
+}
+.button{
+	text-align: center;
+}

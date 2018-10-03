@@ -9,3 +9,10 @@ update_date DATETIME NOT NULL,
 primary key(id));
 
 INSERT INTO userdate VALUES (1,'admin','ä«óùé“',19960728,'rezodb359',20180827,20180827);
+
+
+INSERT INTO userdate VALUES (11,'test1','ÉeÉXÉg1',19960728,'pass',now(),now());
+
+
+
+

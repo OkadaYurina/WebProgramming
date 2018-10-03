@@ -1,0 +1,57 @@
+body{
+	width:50%;
+    margin: auto;
+	border: solid 3px #000000;
+}
+
+header{
+	background-color:#696969;
+	text-align: right;
+	color:#ffffff;
+}
+h1{
+	text-align: center;
+}
+.regist{
+	text-align: right;
+	width: 95%;
+}
+form{
+	text-align: center;
+}
+
+label {
+    margin-right: 10px;
+    width:200px;
+    float: left;
+}
+
+ul {
+    width: 500px;
+    margin: 0 auto;
+}
+ul li {
+    list-style: none;
+}
+.button{
+	text-align: right;
+	width: 95%;
+}
+
+table {
+	border-collapse: collapse;
+}
+th{
+    background-image: -webkit-linear-gradient(#c0c0c0 0%, #FFF 100%);
+    background-image: linear-gradient(#c0c0c0 0%, #FFF 100%);
+    transition: .4s;
+}
+td {
+	border: solid 1px;
+	padding: 0.5em;
+}
+
+div{
+	display:inline-block;
+	vertical-align: middle;
+}
